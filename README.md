@@ -1,7 +1,14 @@
-# Abhi16
+# Abhishek Dhole
 
-Connect with me:
-https://www.linkedin.com/in/abhishek-dhole-723001129/ https://www.hackerrank.com/profile/anshikasrivast13 https://leetcode.com/u/anshika_srivastava/ anshika#1024
+<p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
+<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
+<hr>
 
-Languages and Tools:
-angularjs aws bootstrap c css3 django docker express figma git html5 java javascript jenkins linux mongodb mysql nginx nodejs postman python
+<h3 align="center"> A passionate Software Tester, exploring the world of Software Dev  ⚡</h3>
+
+<h3>NOTE: To keep icons consistent and to ensure browser support, we don't accept pull requests for icon submissions. If you would like an icon added, please open an issue.<h3>
+
+# Tools and Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,selenium,git,github,jenkins,spring,js,html,css,wasm)](https://skillicons.dev)
