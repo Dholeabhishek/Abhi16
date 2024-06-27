@@ -11,13 +11,8 @@ Dedicated to delivering high-quality software through rigorous manual testing an
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,selenium,git,github,jenkins,spring,eclipse,vscode,idea,stackoverflow,js,html,css)](https://skillicons.dev)
 
 # Connect with me
-[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,gmail,Facebook)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhishek-dhole-723001129/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
 
-# Docs
 
-- [Example](#example)
-- [Specifying Icons](#specifying-icons)
-- [Themed Icons](#themed-icons)
-- [Icons Per Line](#icons-per-line)
-- [Centering Icons](#centering-icons)
-- [Icons List](#icons-list)
